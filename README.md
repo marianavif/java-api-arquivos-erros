@@ -11,6 +11,8 @@
 Consulte os dados acerca de quantos locais desejar a partir de seu CEP, utilizando a API *ViaCEP*.
 Imprima os dados dos endereços pesquisados na tela, gerando o arquivo **pesquisaCep.json** contendo-os.
 
+API: [ViaCEP](https://viacep.com.br/)
+
 ### Pacotes
 
 - #### modelos
